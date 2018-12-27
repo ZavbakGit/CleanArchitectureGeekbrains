@@ -1,3 +1,3 @@
 package com.gladkikh.cleanarchitecturegeekbrains
 
-fun getHello() = "Hello All"
+fun getHello() = "Hello all"
